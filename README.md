@@ -1,7 +1,7 @@
 # selfhosted-pi
 
 my self hosted stuff
-![Logo](images/main.jpg)
+![Logo](pics/main.jpg)
 in this project i have created a self hosted pi that can be used to host many services and applications.
 This is a list of services and web applications can be hosted on your own server(s) too .
 dont forget to give this project a star⭐ to support me.
