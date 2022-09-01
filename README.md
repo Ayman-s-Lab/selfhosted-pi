@@ -70,6 +70,15 @@ yeah, now you can access portainer at http://ipaddress:9000 .
 
 you created a new administrator user and chose docker as a container env aaand you are ready to go🎆.
 
+Click Settings, in the bottom-left corner, and paste the Portainer v2 json file link from below into the "App Templates" box.
+this is the one i use for my portainer.
+i will create my own soon.
+
+```
+https://raw.githubusercontent.com/ntv-one/portainer/main/template.json
+```
+You're done! Now just click App Templates and deploy applications!
+
 
 ## Contributing :
 
