@@ -48,5 +48,35 @@ to install docker, clone this repo and run the install script.
 ```
 git clone https://github.com/Ayman-s-Lab/selfhosted-pi.git
 cd selfhosted-pi/installation-scripts
+chmod +rx docker.sh
 ./docker.sh
 ```
+Remember to logout/reboot for the changes to take effect.
+```
+logout
+```
+ssh into the raspberry pi again
+### installing portainer
+portainer is a web application that can be used to manage and easily deploy your docker containers .
+
+to install portainer, open th installation-scripts folder and run the install script.
+
+```
+cd installation-scripts
+chmod +rx portainer.sh
+./portainer.sh
+```
+yeah, now you can access portainer at http://ipaddress:9000 .
+
+you created a new administrator user and chose docker as a container env aaand you are ready to go🎆.
+
+
+## Contributing :
+
+- Open issue  .
+- Fork and clone repository.
+- Make Changes .
+- Review changes .
+- Send pull request .
+
+Thank you for your interest in contributing to this project.
