@@ -12,4 +12,4 @@
 - [How to install Docker on Raspberry Pi](https://www.youtube.com/watch?v=gyMpI8csWis&t=1304s)
 
 ### Articles
--[How and Why I Self Host](https://hackernoon.com/how-and-why-i-self-host-311i3yj0)
+- [How and Why I Self Host](https://hackernoon.com/how-and-why-i-self-host-311i3yj0)
