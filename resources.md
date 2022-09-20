@@ -13,3 +13,6 @@
 - [Getting Started with Home Assistant](https://www.youtube.com/watch?v=u_aKcf_F1MM)
 ### Articles
 - [How and Why I Self Host](https://hackernoon.com/how-and-why-i-self-host-311i3yj0)
+- [Portable Hacking Machine (Kali Linux + Raspberry Pi)](https://www.hackster.io/mehedishakeel/portable-hacking-machine-kali-linux-raspberry-pi-touch-18b7c3)
+- [projects](https://pimylifeup.com/category/projects/)
+- [some fun raspberry pi projects that DON"T need extra hardware](https://www.reddit.com/r/raspberry_pi/comments/66r5cs/what_are_some_fun_raspberry_pi_projects_that_dont/)
