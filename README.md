@@ -75,7 +75,7 @@ this is the one i use for my portainer.
 i will create my own soon.
 
 ```
-https://raw.githubusercontent.com/ntv-one/portainer/main/template.json
+https://raw.githubusercontent.com/Qballjos/portainer_templates/master/Template/template.json
 ```
 You're done! Now just click App Templates and deploy applications!
 
